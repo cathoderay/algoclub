@@ -1,6 +1,7 @@
-Repository for the algoclub online community.
+# algoclub
+  Repository for the algoclub online community.
 
-Problems already discussed:
+## Problems already discussed:
 1. [easy] https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 2. [easy] https://leetcode.com/problems/contains-duplicate
 3. [easy] https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts
