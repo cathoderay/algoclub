@@ -8,5 +8,5 @@ def xor_all_nums(nums1, nums2):
 
     if len(nums2) % 2 == 1:
         solution ^= reduce(lambda a, b: a ^ b, nums1)
- 
+
     return solution

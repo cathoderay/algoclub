@@ -8,5 +8,5 @@ def xor_all_nums(nums1, nums2):
     if len(nums2) % 2 == 1:
         for num in nums1:
             solution ^= num
- 
+
     return solution

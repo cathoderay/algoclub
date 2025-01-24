@@ -10,5 +10,7 @@
 6. [easy] https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
 7. [easy] https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop
 8. [easy] https://leetcode.com/problems/single-number
-9. [medium] https://leetcode.com/problems/sort-colors/
+9. [medium] https://leetcode.com/problems/sort-colors
+10. [easy] https://leetcode.com/problems/merge-sorted-array
+11. [medium] https://leetcode.com/problems/bitwise-xor-of-all-pairings
 
