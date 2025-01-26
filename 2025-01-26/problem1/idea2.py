@@ -1,0 +1,9 @@
+# space: O(1) | time: O(min(x, y // 4))
+
+def winning_player(x, y):
+    player = 0
+    while x >= 1 and y >= 4:
+        x -= 1
+        y -= 4
+        player = ~player
+    return "Alice" if player == 1 else "Bob"
