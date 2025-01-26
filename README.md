@@ -13,4 +13,8 @@
 9. [medium] https://leetcode.com/problems/sort-colors
 10. [easy] https://leetcode.com/problems/merge-sorted-array
 11. [medium] https://leetcode.com/problems/bitwise-xor-of-all-pairings
+12. [easy] https://leetcode.com/problems/find-the-winning-player-in-coin-game
+13. [easy] https://leetcode.com/problems/balanced-binary-tree
+14. [medium] https://leetcode.com/problems/koko-eating-bananas
+15. [medium] https://leetcode.com/problems/contiguous-array
 
