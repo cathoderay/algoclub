@@ -1,3 +1,7 @@
+# problem: https://leetcode.com/problems/balanced-binary-tree/
+# space: O(1) | time: O(n)
+
+
 def is_balanced(root):
     def dfs(root, height):
         if root is None: return height, True

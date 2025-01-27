@@ -1,3 +1,7 @@
+# problem: https://leetcode.com/problems/balanced-binary-tree/
+# space: O(1) | time: O(n)
+
+
 def is_balanced(root):
     balanced = True
       
@@ -8,7 +12,8 @@ def is_balanced(root):
         left = dfs(root.left)
         right = dfs(root.right)
 
-        if abs(left - right) > 1: balanced = False
+        if abs(left - right) > 1: 
+            balanced = False
         return 1 + max(left, right)
 
     dfs(root)

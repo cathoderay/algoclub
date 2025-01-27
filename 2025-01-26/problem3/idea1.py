@@ -1,3 +1,7 @@
+# problem: https://leetcode.com/problems/koko-eating-bananas/
+# space: O(1) | time: O(n*log(max(piles)))
+
+
 from math import ceil
 
 

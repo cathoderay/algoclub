@@ -1,3 +1,7 @@
+# problem: https://leetcode.com/problems/contiguous-array/
+# space: O(n) | time: O(n)
+
+
 def find_max_length(nums):
     m = {0: -1}
     count = maxi = 0

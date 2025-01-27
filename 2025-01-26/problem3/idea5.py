@@ -1,4 +1,8 @@
-from math import ceil, inf
+# problem: https://leetcode.com/problems/koko-eating-bananas/
+# space: O(n) | time: O(n*log(max(piles)))
+
+
+from math import inf
 import numpy as np
 from bisect import bisect_left
 
