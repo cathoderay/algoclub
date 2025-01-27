@@ -1,4 +1,4 @@
-# link: https://leetcode.com/problems/balanced-binary-tree/
+# problem: https://leetcode.com/problems/balanced-binary-tree/
 # space: O(1) | time: O(n)
 
 
