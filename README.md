@@ -45,3 +45,9 @@
 14. [medium] https://leetcode.com/problems/koko-eating-bananas
 15. [medium] https://leetcode.com/problems/contiguous-array
 
+### 2025-02-02
+
+12. [easy] https://leetcode.com/problems/range-sum-query-immutable
+13. [easy] https://leetcode.com/problems/find-pivot-index
+14. [medium] https://leetcode.com/problems/subarray-sum-equals-k 
+15. [medium] https://leetcode.com/problems/subarray-sums-divisible-by-k 
