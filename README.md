@@ -45,9 +45,16 @@
 14. [medium] https://leetcode.com/problems/koko-eating-bananas
 15. [medium] https://leetcode.com/problems/contiguous-array
 
-### 2025-02-02
+### 2025-02-02 [Prefix Sum I]
 
-12. [easy] https://leetcode.com/problems/range-sum-query-immutable
-13. [easy] https://leetcode.com/problems/find-pivot-index
-14. [medium] https://leetcode.com/problems/subarray-sum-equals-k 
-15. [medium] https://leetcode.com/problems/subarray-sums-divisible-by-k 
+16. [easy] https://leetcode.com/problems/range-sum-query-immutable
+17. [easy] https://leetcode.com/problems/find-pivot-index
+18. [medium] https://leetcode.com/problems/subarray-sum-equals-k
+19. [medium] https://leetcode.com/problems/subarray-sums-divisible-by-k
+
+### 2025-02-09 [Prefix Sum II]
+
+20. [medium] https://leetcode.com/problems/special-array-ii
+21. [medium] https://leetcode.com/problems/range-sum-query-2d-immutable
+22. [medium] https://leetcode.com/problems/range-sum-query-mutable
+23. [hard] https://leetcode.com/problems/number-of-submatrices-that-sum-to-target
