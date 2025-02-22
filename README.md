@@ -58,3 +58,10 @@
 21. [medium] https://leetcode.com/problems/range-sum-query-2d-immutable
 22. [medium] https://leetcode.com/problems/range-sum-query-mutable
 23. [hard] https://leetcode.com/problems/number-of-submatrices-that-sum-to-target
+
+### 2025-02-16 [Dynamic Programming I]
+
+24. [easy] https://leetcode.com/problems/climbing-stairs
+25. [easy] https://leetcode.com/problems/n-th-tribonacci-number
+26. [medium] https://leetcode.com/problems/house-robber
+27. [medium] https://leetcode.com/problems/delete-and-earn/
