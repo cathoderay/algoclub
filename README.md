@@ -64,4 +64,12 @@
 24. [easy] https://leetcode.com/problems/climbing-stairs
 25. [easy] https://leetcode.com/problems/n-th-tribonacci-number
 26. [medium] https://leetcode.com/problems/house-robber
-27. [medium] https://leetcode.com/problems/delete-and-earn/
+27. [medium] https://leetcode.com/problems/delete-and-earn
+
+### 2025-02-23 [Dynamic Programming II]
+
+28. [medium] https://leetcode.com/problems/unique-paths
+29. [medium] https://leetcode.com/problems/triangle
+30. [medium] https://leetcode.com/problems/minimum-falling-path-sum
+31. [medium] https://leetcode.com/problems/maximal-square
+32. [hard] https://leetcode.com/problems/maximal-square
