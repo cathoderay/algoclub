@@ -18,20 +18,20 @@
 
 ### 2024-12-22
 
-3. [easy] https://leetcode.com/problems/contains-duplicate
-4. [easy] https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts
-5. [easy] https://leetcode.com/problems/palindrome-number
-6. [easy] https://leetcode.com/problems/crawler-log-folder/description
+2. [easy] https://leetcode.com/problems/contains-duplicate
+3. [easy] https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts
+4. [easy] https://leetcode.com/problems/palindrome-number
+5. [easy] https://leetcode.com/problems/crawler-log-folder/description
 
 ### 2025-01-05
 
-7. [easy] https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
-8. [easy] https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop
-9. [easy] https://leetcode.com/problems/single-number
+6. [easy] https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence
+7. [easy] https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop
+8. [easy] https://leetcode.com/problems/single-number
 
 ### 2025-01-12
 
-10. [medium] https://leetcode.com/problems/sort-colors
+9. [medium] https://leetcode.com/problems/sort-colors
 
 ### 2025-01-19
 
