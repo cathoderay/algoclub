@@ -72,4 +72,4 @@
 29. [medium] https://leetcode.com/problems/triangle
 30. [medium] https://leetcode.com/problems/minimum-falling-path-sum
 31. [medium] https://leetcode.com/problems/maximal-square
-32. [hard] https://leetcode.com/problems/maximal-square
+32. [hard] https://leetcode.com/problems/number-of-increasing-paths-in-a-grid 
